@@ -1,0 +1,30 @@
+[user]
+    name = test
+    email = test@test.com
+[core]
+    editor = vim
+[color]
+    ui = auto
+[alias]
+    br = branch
+    st = status
+    di = diff
+    co = checkout
+    cl = clean
+    plo = pull origin
+    pso = push origin
+    plu = pull upstream
+    psu = push upstream
+    cm = commit
+    ad = add
+    adu = add -u
+    l = log
+    lp = log -p
+    lone = log --oneline
+    lsta = log --stat
+    dca = diff --cached
+    mg = merge
+    stas = stash save -u
+    stap = stash pop
+    rb = rebase
+    rbc = rebase --continue
