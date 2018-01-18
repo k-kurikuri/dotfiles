@@ -13,6 +13,8 @@ set hidden
 set showcmd
 
 " 見た目系
+" syntax Highlight
+:syntax on
 " 行番号を表示
 set number
 " 現在の行を強調表示
