@@ -23,5 +23,8 @@ formulas=(
     vim
     mysql
     composer
-    markdown   
+    markdown
+    node
+    tmux
+    phpbrew # TODO: tap homebrew/php
 )
