@@ -26,5 +26,6 @@ formulas=(
     markdown
     node
     tmux
+    go
     phpbrew # TODO: tap homebrew/php
 )
