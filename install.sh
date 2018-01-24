@@ -22,10 +22,13 @@ formulas=(
     peco
     vim
     mysql
+    redis
     composer
     markdown
     node
     tmux
     go
     phpbrew # TODO: tap homebrew/php
+    pyenv
+    rbenv
 )
