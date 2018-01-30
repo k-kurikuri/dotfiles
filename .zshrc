@@ -1,5 +1,6 @@
 # 環境変数
 export LANG=ja_JP.UTF-8
+export GOPATH=$HOME/go
 
 # ヒストリの設定
 HISTFILE=~/.zsh_history
