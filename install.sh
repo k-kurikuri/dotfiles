@@ -31,4 +31,5 @@ formulas=(
     phpbrew # TODO: tap homebrew/php
     pyenv
     rbenv
+    sql-translator
 )
