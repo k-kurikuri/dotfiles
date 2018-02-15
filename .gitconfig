@@ -15,6 +15,10 @@
     pso = push origin
     plu = pull upstream
     psu = push upstream
+    plod = pull origin develop
+    psod = push origin develop
+    plud = pull upstream develop
+    psud = push upstream develop
     cm = commit
     ad = add
     adu = add -u
