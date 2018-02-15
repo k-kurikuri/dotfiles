@@ -16,9 +16,9 @@
     plu = pull upstream
     psu = push upstream
     plod = pull origin develop
-    psod = push origin develop
     plud = pull upstream develop
-    psud = push upstream develop
+    plom = pull origin master
+    plum = pull upstream master
     cm = commit
     ad = add
     adu = add -u
