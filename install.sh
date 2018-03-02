@@ -32,7 +32,7 @@ formulas=(
     pyenv
     rbenv
     sql-translator
+    awscli
 )
 
 # sudo easy_install pip
-# pip install awscli --upgrade --user
