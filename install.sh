@@ -33,7 +33,7 @@ formulas=(
     rbenv
     sql-translator
     awscli
-    mysql
+    goenv
 )
 
 # sudo easy_install pip
