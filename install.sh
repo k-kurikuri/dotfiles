@@ -34,6 +34,7 @@ formulas=(
     sql-translator
     awscli
     goenv
+    direnv
 )
 
 # sudo easy_install pip
