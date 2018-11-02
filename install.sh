@@ -35,6 +35,7 @@ formulas=(
     awscli
     goenv
     direnv
+    jq
 )
 
 # sudo easy_install pip
