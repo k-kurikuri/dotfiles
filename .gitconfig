@@ -28,7 +28,7 @@
     lsta = log --stat
     dca = diff --cached
     mg = merge
-    stas = stash save -u
+    stas = stash -u
     stap = stash pop
     rb = rebase
     rbc = rebase --continue
