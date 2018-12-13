@@ -39,3 +39,6 @@ formulas=(
 )
 
 # sudo easy_install pip
+
+# MacOS KeyReat Setting
+defaults write -g InitialKeyRepeat -int 10 & defaults write -g KeyRepeat -int 1
