@@ -36,6 +36,7 @@ formulas=(
     goenv
     direnv
     jq
+    zsh_complition
 )
 
 # sudo easy_install pip
