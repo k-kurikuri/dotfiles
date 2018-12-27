@@ -1,6 +1,6 @@
 [user]
-    name = test
-    email = test@test.com
+    name = {name}
+    email = {name}@example.com
 [core]
     editor = vim
 [color]
@@ -10,6 +10,7 @@
     st = status
     di = diff
     co = checkout
+    com = checkout master
     cl = clean
     plo = pull origin
     pso = push origin
@@ -31,4 +32,6 @@
     stas = stash -u
     stap = stash pop
     rb = rebase
+    rbm = rebase master
     rbc = rebase --continue
+    rbs = rebase --skip
