@@ -43,3 +43,6 @@ formulas=(
 
 # MacOS KeyReat Setting
 defaults write -g InitialKeyRepeat -int 10 & defaults write -g KeyRepeat -int 1
+
+# MacOS Finder seek dotFile
+defaults write com.apple.finder AppleShowAllFiles TRUE
