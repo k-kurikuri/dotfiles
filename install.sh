@@ -37,6 +37,7 @@ formulas=(
     direnv
     jq
     zsh_complition
+    hadolint
 )
 
 # sudo easy_install pip
