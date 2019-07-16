@@ -55,3 +55,5 @@ alias g='git'
 alias h='history'
 export CLICOLOR=1
 export LSCOLORS=DxGxcxdxCxegedabagacad
+
+bindkey -e
