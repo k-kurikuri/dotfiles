@@ -38,6 +38,7 @@ formulas=(
     jq
     zsh_complition
     hadolint
+    ngrok
 )
 
 # sudo easy_install pip
