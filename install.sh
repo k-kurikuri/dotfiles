@@ -39,6 +39,7 @@ formulas=(
     zsh_complition
     hadolint
     ngrok
+    hub
 )
 
 # sudo easy_install pip
