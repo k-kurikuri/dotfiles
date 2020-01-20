@@ -1,0 +1,2 @@
+go get -u github.com/go-delve/delve
+go get -u github.com/rakyll/gotest
