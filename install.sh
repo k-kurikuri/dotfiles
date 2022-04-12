@@ -40,6 +40,7 @@ formulas=(
     hadolint
     ngrok
     hub
+    coreutils
 )
 
 # sudo easy_install pip
