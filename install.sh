@@ -27,13 +27,9 @@ formulas=(
     markdown
     node
     tmux
-    go
-    phpbrew # TODO: tap homebrew/php
-    pyenv
-    rbenv
+    asdf
     sql-translator
     awscli
-    goenv
     direnv
     jq
     zsh_complition
