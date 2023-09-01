@@ -61,3 +61,9 @@ nmap <Esc><Esc> :nohlsearch<CR><Esc>
 
 " ESCをjjに対応
 inoremap <silent> jj <ESC>
+
+" セミコロンをコロンに割り当てる
+nnoremap ; :
+nnoremap : ;
+vnoremap : :
+vnoremap : ;
